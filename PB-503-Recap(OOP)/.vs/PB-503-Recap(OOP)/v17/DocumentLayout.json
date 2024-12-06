@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\enum\\firetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:enum\\firetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\exceptions\\invalidfiremodeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:exceptions\\invalidfiremodeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\exceptions\\enoughbulletsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:exceptions\\enoughbulletsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\exceptions\\invalidreloaduseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:exceptions\\invalidreloaduseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\exceptions\\invalidcombcapasityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:exceptions\\invalidcombcapasityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|c:\\users\\asus\\source\\repos\\pb-503-recap(oop)\\exceptions\\invalidbulletnumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595D2A2D-28C8-4757-AAC7-1977396581D8}|PB-503-Recap(OOP).csproj|solutionrelative:exceptions\\invalidbulletnumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidFireModeException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidFireModeException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidFireModeException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidFireModeException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidFireModeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:11:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Models\\Weapon.cs",
+              "RelativeToolTip": "Models\\Weapon.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:15:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnoughBulletsException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\EnoughBulletsException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\EnoughBulletsException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\EnoughBulletsException.cs",
+              "RelativeToolTip": "Exceptions\\EnoughBulletsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:25:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidReloadUseException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidReloadUseException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidReloadUseException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidReloadUseException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidReloadUseException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:13:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidBulletNumberException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidBulletNumberException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidBulletNumberException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidBulletNumberException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidBulletNumberException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:03:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidCombCapasityException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidCombCapasityException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidCombCapasityException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Exceptions\\InvalidCombCapasityException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidCombCapasityException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:57:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Enum\\FireTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enum\\FireTypeEnum.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Enum\\FireTypeEnum.cs",
+              "RelativeToolTip": "Enum\\FireTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:35:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PB-503-Recap(OOP)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:14:46.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

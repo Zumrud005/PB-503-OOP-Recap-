@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\bin\Debug\net6.0\PB-503-Recap(OOP).exe
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\bin\Debug\net6.0\PB-503-Recap(OOP).deps.json
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\bin\Debug\net6.0\PB-503-Recap(OOP).runtimeconfig.json
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\bin\Debug\net6.0\PB-503-Recap(OOP).dll
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\bin\Debug\net6.0\PB-503-Recap(OOP).pdb
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).dll
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\refint\PB-503-Recap(OOP).dll
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).pdb
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\PB-503-Recap(OOP).genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB-503-Recap(OOP)\obj\Debug\net6.0\ref\PB-503-Recap(OOP).dll
